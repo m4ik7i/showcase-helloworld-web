@@ -1,0 +1,11 @@
+{
+  "name": "hello_world",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "serve public"
+  },
+  "devDependencies": {
+    "serve": "^11.3.0"
+  }
+}
